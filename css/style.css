@@ -9,6 +9,11 @@ body {
     margin-left: auto;
     width: 1170px;
 }
+
+.container:not(:last-child) {
+    margin-bottom: 40px;
+}
+
 h1 {
     color: green;
     text-align: center;
