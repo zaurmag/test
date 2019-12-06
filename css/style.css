@@ -9,3 +9,11 @@ body {
     margin-left: auto;
     width: 1170px;
 }
+h1 {
+    color: green;
+    text-align: center;
+    font-size: 72px;
+    font-weight: 700;
+    margin-top: 50px;
+}
+
