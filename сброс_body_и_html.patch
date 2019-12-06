@@ -1,0 +1,20 @@
+Index: css/style.css
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- css/style.css	(date 1575622534000)
++++ css/style.css	(date 1575622982000)
+@@ -1,5 +1,12 @@
++html {
++    height: 100%;
++}
++
+ body {
+     font-family: Arial, sans-serif;
++    margin: 0;
++    padding: 0;
++    height: 100%;
+ }
+ 
+ .container {
