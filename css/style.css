@@ -42,7 +42,15 @@ h2 {
 }
 
 .menu__list li:not(:last-child) {
-    margin-right: 20px;
+    margin-right: 30px;
+}
+
+.menu__list li a {
+    color: blue
+}
+
+.menu__list li a:hover {
+    color: red
 }
 
 .footer {
